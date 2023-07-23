@@ -14,7 +14,8 @@
           "Hey :-)",
           "Hello, thanks for visiting",
           "Hi there, what can I do for you?",
-          "Hi there, how can I help?"
+          "Hi there, how can I help?",
+          "whatsup mate, how can I be of service"
         ]
       },
       {
@@ -36,7 +37,14 @@
         "patterns": [
           "Which items do you have?",
           "What kinds of items are there?",
-          "What do you sell?"
+          "What do you sell?",
+          "what are your services",
+          "what do you have ?",
+          "show me your services",
+          "i need to buy",
+          "what can i buy here",
+          "need something",
+          "do you have offer"
         ],
         "responses": [
           "We sell coffee and tea",
@@ -49,7 +57,11 @@
           "Do you take credit cards?",
           "Do you accept Mastercard?",
           "Can I pay with Paypal?",
-          "Are you cash only?"
+          "Are you cash only?",
+          "how can i pay",
+          "how is the payment",
+          "can i pay with my card ?",
+          "do you acceot cash in hand"
         ],
         "responses": [
           "We accept VISA, Mastercard and Paypal",
@@ -61,11 +73,16 @@
         "patterns": [
           "How long does delivery take?",
           "How long does shipping take?",
-          "When do I get my delivery?"
+          "When do I get my delivery?",
+          "how long it will take",
+          "when cai get it ?",
+          "when can i expect my package",
+          "when would it get delivered"
         ],
         "responses": [
           "Delivery takes 2-4 days",
-          "Shipping takes 2-4 days"
+          "Shipping takes 2-4 days",
+          "Delivery would not take more than 4 working days"
         ]
       },
       {
@@ -73,7 +90,18 @@
         "patterns": [
           "Tell me a joke!",
           "Tell me something funny!",
-          "Do you know a joke?"
+          "Do you know a joke?",
+          "say something funny",
+          "Hey can you tell me a joke?",
+          "I could use a good laugh. Share a joke with me!",
+          "Tell me a joke, please ",
+          "lighten up the mood with a joke!",
+          "how about a funny joke ",
+          "do you have any funny jokes ?",
+          "I need a joke to brighten my day !",
+          "I love your jokes, Hit me with another one!",
+          "Can you entertain me "
+
         ],
         "responses": [
           "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
